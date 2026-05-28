@@ -1,0 +1,4 @@
+com\srp\poc\BookApiApplication.class
+com\srp\poc\service\BookServiceImpl.class
+com\srp\poc\controller\BookController.class
+com\srp\poc\model\Book.class
